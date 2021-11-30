@@ -10,4 +10,3 @@ print(new_num_char)
 
 a =123
 print(type(a))
-
